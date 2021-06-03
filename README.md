@@ -1,1 +1,1 @@
-One of my first apps ever. I used android Studio. 
+One of my first apps ever. I used Android Studio. 
